@@ -54,4 +54,6 @@ Thumbs.db
 
 # 📁 Archivos sensibles comunes
 secrets.json
-config.local.jsbackend-full.zip 
+config.local.js
+
+*.zip

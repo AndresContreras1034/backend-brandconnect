@@ -1,14 +1,14 @@
 {
   "name": "brand-connect-backend",
   "version": "1.0.0",
-  "description": "Backend de Brand Connect",
-  "homepage": "https://github.com/Andres-Mendez1034/backend#readme",
+  "description": "REST API for the Brand Connect creator marketplace",
+  "homepage": "https://github.com/AndresContreras1034/backend-brandconnect#readme",
   "bugs": {
-    "url": "https://github.com/Andres-Mendez1034/backend/issues"
+    "url": "https://github.com/AndresContreras1034/backend-brandconnect/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andres-Mendez1034/backend.git"
+    "url": "git+https://github.com/AndresContreras1034/backend-brandconnect.git"
   },
   "license": "ISC",
   "author": "",
